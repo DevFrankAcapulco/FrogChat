@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bottom_nav_contacts"
+        android:enabled="true"
+        android:title="Contacts"
+        android:icon="@drawable/ic_splash"
+        android:iconTint="@color/colorTextBlack"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/bottom_nav_chat"
+        android:enabled="true"
+        android:title="Chat"
+        android:icon="@drawable/ic_splash"
+        android:iconTint="@color/colorTextBlack"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/bottom_nav_configs"
+        android:enabled="true"
+        android:title="Configs"
+        android:icon="@drawable/ic_splash"
+        android:iconTint="@color/colorTextBlack"
+        app:showAsAction="ifRoom"/>
+
+</menu>

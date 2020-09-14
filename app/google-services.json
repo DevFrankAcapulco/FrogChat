@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979020723048",
+    "firebase_url": "https://frogchat-ae53b.firebaseio.com",
+    "project_id": "frogchat-ae53b",
+    "storage_bucket": "frogchat-ae53b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979020723048:android:67f0d154fbc59c7ef91cdd",
+        "android_client_info": {
+          "package_name": "com.frankdevacap.frogchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979020723048-9rg15c7aj2397hguck9ll4ht8pe2rml2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0dOBjZN35q-5YRlfUETkDHhc8DnG0J2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979020723048-9rg15c7aj2397hguck9ll4ht8pe2rml2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
